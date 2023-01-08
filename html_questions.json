@@ -1,0 +1,92 @@
+[
+    {
+    "title" :" Which is the correct syntax to include comment in an HTML document?",
+    "answer_1" : "//",
+    "answer_2" : "/* Comment */",
+    "answer_3" : "// Comment //",
+    "answer_4" : "<!-- Comment -->",
+    "right_answer" :"<!-- Comment -->"
+
+},
+{
+    "title" :" Which element/tag defines a paragraph?",
+    "answer_1" : "<p>",
+    "answer_2" : "<pre>",
+    "answer_3" : "<panel>",
+    "answer_4" : "None of the above",
+    "right_answer" :"<p>"
+
+},
+{
+    "title" :"Which tag/element defines the HTML document's body?",
+    "answer_1" : "<html>",
+    "answer_2" : "<title>",
+    "answer_3" : "<head>",
+    "answer_4" : "<body>",
+    "right_answer" :"<body>"
+
+},
+{
+    "title" :"Who invented HTML?",
+    "answer_1" : "Dave Raggett",
+    "answer_2" : "Denis Ritchie",
+    "answer_3" : "Tim Berners-Lee",
+    "answer_4" : "All of the above",
+    "right_answer" :"Tim Berners-Lee"
+
+},
+{
+    "title" :"HTML headings are defined with the _____ tags.",
+    "answer_1" : "<head1> to <head6>",
+    "answer_2" : "<p1> to <p6>",
+    "answer_3" : "<h1> to <h6>",
+    "answer_4" : "<h1> to <h3>",
+    "right_answer" :"<h1> to <h6>"
+
+},
+{
+    "title" :"Which tag is used to display a horizonal rule (horizonal line)?",
+    "answer_1" : "<br>",
+    "answer_2" : "<hr>",
+    "answer_3" : "<hr>...</hr>",
+    "answer_4" : "<line>",
+    "right_answer" :"<hr>"
+
+},
+{
+    "title" :"Which tag is used to define a line break?",
+    "answer_1" : "<\n>",
+    "answer_2" : "<lr>",
+    "answer_3" : "<br>",
+    "answer_4" : "<br>..</br>",
+    "right_answer" :"<br>"
+
+},
+{
+    "title" :"Which tag is used to define preformatted text?",
+    "answer_1" : "<pf>",
+    "answer_2" : "<p>",
+    "answer_3" : "<pre>",
+    "answer_4" : "<code>",
+    "right_answer" :"<pre>"
+
+},
+{
+    "title" :"Which HTML attribute is used to define styles of an element?",
+    "answer_1" : "<style>",
+    "answer_2" : "<css>",
+    "answer_3" : "css",
+    "answer_4" : "style",
+    "right_answer" :"style"
+
+},
+{
+    "title" :"Which HTML tag is used to define italic text?",
+    "answer_1" : "<italic>",
+    "answer_2" : "<em>",
+    "answer_3" : "<i>",
+    "answer_4" : "<it>",
+    "right_answer" :"<i>"
+
+}
+]
